@@ -1,0 +1,25 @@
+{
+	"name": "text-filling-effect",
+	"version": "0.0.1",
+	"description": "A nice text filling effect.",
+	"main": "index.js",
+	"scripts": {
+		"style-css": "sass ./assets/scss/style.scss ./assets/css/style.css --watch --no-source-map"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Clickadelic/text-filling-effect.git"
+	},
+	"keywords": [
+		"CSS"
+	],
+	"author": "Tobias Hopp",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Clickadelic/text-filling-effect/issues"
+	},
+	"homepage": "https://github.com/Clickadelic/text-filling-effect#readme",
+	"devDependencies": {
+		"sass": "^1.77.1"
+	}
+}
